@@ -1,0 +1,4 @@
+excutable_file = "main.py"
+extensions = [
+    "csv"
+]

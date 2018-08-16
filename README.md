@@ -1,2 +1,5 @@
-# msime-scanner
-Scan data with Microsoft IME's dictonary data as signature.
+# filt-anime-title-scanner
+https://github.com/anilogia/animedb
+
+のデータを使ってアニメのタイトルかをチェックする
+
